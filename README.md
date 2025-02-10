@@ -73,16 +73,6 @@ git clone https://github.com/nehagarg702/MoneyTransferApp.git
 1. Connect a device or start an emulator.
 2. Click the **Run** button in Android Studio to install and run the app.
 
-## Known Issues & Future Improvements
-
-- **UI Enhancements:** The UI/UX can be further optimized for a better experience.
-- **Real Banking API Integration:** Currently, the app uses mock data, but it can be integrated with real banking APIs in the future.
-- **Advanced Transaction Features:** Features like scheduled transfers, recurring payments, and transaction categorization can be added.
-
-## Testing
-
-- Unit tests are provided for key functionalities such as authentication, account balance validation, and transaction history updates.
-
 ## License
 
 This project is licensed under the MIT License.
