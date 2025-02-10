@@ -1,5 +1,7 @@
 # Money Transfer App
 
+https://github.com/user-attachments/assets/4c0ff739-dfda-433b-9c7e-1cd1418ecbf2
+
 ## Overview
 
 Money Transfer App is an Android application developed using Kotlin and MVVM architecture. The app simulates a money transfer system between different user accounts, allowing users to authenticate, manage accounts, transfer funds, and view transaction history without backend integration.
@@ -76,4 +78,3 @@ git clone https://github.com/nehagarg702/MoneyTransferApp.git
 ## License
 
 This project is licensed under the MIT License.
-
